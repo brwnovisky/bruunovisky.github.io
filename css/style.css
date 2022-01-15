@@ -8,8 +8,11 @@
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
+@import "./bicicletas/bicletas-lista.css";
 @import "./seguros/seguros.css";
-@import "./bicicletas/bicletas-lista.css"
+@import "./termos/termos.css";
+
+
 
 
 
